@@ -2,13 +2,15 @@
 
 ## Overview
 
-Please read the full spec on the [Data 101 Website](https://data101.org/fa24/assignments/final-project/)
+Data101 is UC Berkeley's Data Engineering course, focusing on the process of designing, building, and maintaining systems and processes that collect, store, transform, and make raw data usable for analysis, data science, and other applications.
+
+The entire spec of this project is located on the following website: [Data 101 Website](https://data101.org/fa24/assignments/final-project/)
 
 ---
 
 ## Repository Structure
 
-The final project contains this starter setup. You may adapt it as needed, but please make sure you don't commit large files which can be complicated to undo.
+The project contains the following file structure: 
 
 ```
 .
@@ -19,7 +21,5 @@ The final project contains this starter setup. You may adapt it as needed, but p
 ├── data/               # Data directory (excluded from git)
 ├── queries/            # Place to put SQL queries
 ```
-
-**Warning:** It can be tricky to work with large files and git / GitHub. We've set up a `.gitignore` to exclude many common large files, and **everything** inside `data/`.
 
 ---
